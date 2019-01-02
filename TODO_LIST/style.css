@@ -1,0 +1,12 @@
+body{
+    background-color: lightcoral
+}
+#inpNewTask{
+    background-color: lightcyan
+}
+.list-group-item{
+    background-color: lightgoldenrodyellow
+}
+.d{
+    text-decoration: line-through
+}
